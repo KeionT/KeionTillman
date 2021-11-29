@@ -41,6 +41,10 @@ html,body {
     justify-content: center;
 }
 
+.right {
+    padding-left: 10px;
+}
+
 .social-links {
     list-style-type: none;
     padding-left: 0px;
